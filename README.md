@@ -31,6 +31,6 @@
 
 - 📫 How to reach me **damehlivingstone1@gmail.com**
 
-- ⚡ Fun fact **I am Curios**
+- ⚡ Fun fact **I am Curious**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sekoviper&" alt="sekoviper" /></p>
