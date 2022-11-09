@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://sekoviper.github.io/portfolio/](https://sekoviper.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [See Live](https://github.com/SekoViper)
 
 - 💬 Ask me about **JavaScript**
 
