@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Seko Livingstone Dameh</h1>
+<h1 align="">Hi 👋, I'm Seko Dameh</h1>
 <h3 align="">A passionate Front-End developer from Ghana</h3>
 
 <h3 align="left">Connect with me:</h3>
